@@ -3,4 +3,5 @@ This is a pretty useless tool, all it does is rename functions to property_x or 
 
 # How to use?
 Drag any obfuscated dumped .dll in Beeless.exe
+
 It will make a cleaned.dll, etc.
